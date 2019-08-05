@@ -1,17 +1,3 @@
-/*******************************************************************************
-*							PROGRAM KASIR WARUNG RAMEN ICHIRAKU                       *
-*                                                                              *
-*		Anggota Kelompok:                                                        *
-*		-----------------                                                        *
-*		- Sopian Wira Hadi(12155005),                                            *
-*		- Hafiz Shahreva(12155026),                                              *
-*		- Mike Santia(12155088),                                                 *
-*     - Safira Mutia Arifin(12155107),       											 *
-*     - Satrio Pamungkas(12155229),                                            *
-*		- Walied Ghaly Damiri(12154303).            							          *
-*                                                                              *
-*******************************************************************************/
-
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
